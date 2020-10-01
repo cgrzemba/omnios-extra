@@ -153,6 +153,7 @@ extra.omnios ooce/system/sysstat
 extra.omnios ooce/system/top
 extra.omnios ooce/system/znapzend
 extra.omnios ooce/system/zrepl
+extra.omnios ooce/system/sg3_utils
 extra.omnios ooce/text/asciidoc
 extra.omnios ooce/text/asciinema
 extra.omnios ooce/text/docbook-xsl
