@@ -20,7 +20,7 @@ PROG=sg3_utils
 VER=1.45
 PKG=ooce/system/storage/sg3_utils
 SUMMARY="the sg3-utils SCSI utilities"
-DESC="Collection of utilities for devices that use the SCSI command set. Includes utilities to copy data based on "dd" syntax and semantics (called sg_dd, sgp_dd and sgm_dd); check INQUIRY data and VPD pages (sg_inq); check mode and log pages (sginfo, sg_modes and sg_logs); spin up and down disks (sg_start); do self tests (sg_senddiag); and various other functions. Warning: Some of these tools access the internals of your system and the incorrect usage of them may render your system inoperable."
+DESC="Collection of utilities for devices that use the SCSI command set. Includes utilities to copy data based on 'dd' syntax and semantics (called sg_dd, sgp_dd and sgm_dd); check INQUIRY data and VPD pages (sg_inq); check mode and log pages (sginfo, sg_modes and sg_logs); spin up and down disks (sg_start); do self tests (sg_senddiag); and various other functions. Warning: Some of these tools access the internals of your system and the incorrect usage of them may render your system inoperable."
 
 # CPPFLAGS += -I$(COMPONENT_DIR)/$(COMPONENT_SRC)/include
 
